@@ -15,3 +15,11 @@ A DataFrame contains:
 - **Columns** (vertical data)
 - **Index** (row labels)
 - **Column labels** (header names)
+  # Key Features of DataFrame
+
+- Two-dimensional (rows × columns)
+- Handles large datasets easily
+- Supports filtering, sorting, grouping
+- Can read/write CSV, Excel, SQL, JSON
+- Integrated with NumPy for fast operations
+- Great for data analysis & preprocessing
