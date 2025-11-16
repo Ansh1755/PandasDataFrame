@@ -23,3 +23,31 @@ A DataFrame contains:
 - Can read/write CSV, Excel, SQL, JSON
 - Integrated with NumPy for fast operations
 - Great for data analysis & preprocessing
+# Reading Data into DataFrame
+# From CSV:
+df = pd.read_csv('data.csv')
+
+# From Excel:
+df = pd.read_excel('file.xlsx')
+
+# From SQL:
+df = pd.read_sql(query, connection)
+# Use Cases
+
+* Data cleaning & preprocessing
+
+* Machine learning datasets
+
+* Data visualization
+
+* Statistical analysis
+
+* Loading/storing large datasets
+
+# Requirements
+pip install pandas
+
+# License
+
+This project is open-source and free to use.
+
